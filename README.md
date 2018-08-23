@@ -17,6 +17,13 @@ int main()
 ```
 
 
+# 카카오 문제 공부
+https://programmers.co.kr/learn/courses/30/lessons/1834
+
+ 
+# 카카오 문제 풀이
+http://tech.kakao.com/2017/08/11/code-festival-round-1/
+
 
 <table class="txc-table" width="614" cellspacing="0" cellpadding="0" border="0" style="border:none;border-collapse:collapse;;font-family:돋움;font-size:12px"><tbody><tr><td style="width: 613px; height: 24px; border: 1px solid rgb(204, 204, 204); background-color: rgb(217, 229, 255);" colspan="2" rowspan="1"><p><b>생성자&nbsp;</b></p></td></tr>
 
