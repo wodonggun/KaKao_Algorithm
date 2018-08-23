@@ -25,6 +25,9 @@ https://programmers.co.kr/learn/courses/30/lessons/1834
 http://tech.kakao.com/2017/08/11/code-festival-round-1/
 
 
+# 라이브러리 공부
+
+## Vector
 <table class="txc-table" width="614" cellspacing="0" cellpadding="0" border="0" style="border:none;border-collapse:collapse;;font-family:돋움;font-size:12px"><tbody><tr><td style="width: 613px; height: 24px; border: 1px solid rgb(204, 204, 204); background-color: rgb(217, 229, 255);" colspan="2" rowspan="1"><p><b>생성자&nbsp;</b></p></td></tr>
 
 <tr><td style="width: 151px; height: 24px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(204, 204, 204); border-right-width: 1px; border-right-style: solid; border-right-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid; border-left-color: rgb(204, 204, 204);"><p>&nbsp;vector v</p></td>
